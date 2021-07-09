@@ -6,7 +6,7 @@
 # In order to try this out, fork this repo into your personal GitHub account
 # Then, change the repo-owner to be your GitHub id
 
-REPO_NAME=training-data-analyst
+REPO_NAME=leeahnduk/training-data-analyst
 REPO_OWNER=GoogleCloudPlatform
 
 #for trigger_name in trigger-000 trigger-001 trigger-002 trigger-003; do
