@@ -35,7 +35,7 @@ class ObjectDict(dict):
   description='Train Babyweight model from scratch'
 )
 def preprocess_train_and_deploy(
-    project='ai-analytics-solutions',
+    project='authentic-codex-307607',
     bucket='ai-analytics-solutions-kfpdemo',
     start_year='2000'
 ):
@@ -91,7 +91,7 @@ def preprocess_train_and_deploy(
   description='Train Babyweight model on current data in GCS'
 )
 def train_and_deploy(
-    project='ai-analytics-solutions',
+    project='authentic-codex-307607',
     bucket='ai-analytics-solutions-kfpdemo',
     start_year='2000'
 ):
